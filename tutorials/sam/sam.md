@@ -1,12 +1,12 @@
-Title: Dallas Protesters Furious to Be Blamed for Murder of 5 Cops 
-Description: Fear turned to outrage by blacks who felt, again, they were being blamed for a massacre of police by at least two unidentified assailants Thursday night.
-tags: [tutorial:area-of-interest>communication]
+Title: for demo
+Description: for demo
+tags: [tutorial>www, tutorial>www, tutorial>lll, agreements>Service-Descriptions, tutorial>gateway, semaphore-rejected>SAP-Simple-Finance, tutorial>product>sap-ui5, tutorial>Java-Connector-API-(JCo), agreements>maintenance-/-support-agreements, tutorial>Servlets-/-JSP, tutorial>product>mobile, language>Serbian---Latin, solution>security, agreements>aaa, agreements>general-Terms-&-Conditions, tutorial>ttt, tutorial>new-tag, tutorial>test, tutorial:technology/maven, redirect>types]
 qrcode: true
 ---
 TEST 
 Use Azure PowerShell to [task]  
 
- ![Funny-Baby-11.jpg] (Funny-Baby-11.jpg)
+ ![Image 1.png] (Image 1.png)
  
 This article shows you how to [task], using commands from both the Azure module and the Azure Resource Manager module. This is intended to help you learn the new commands as well as migrate existing scripts to the new commands.
 
@@ -21,4 +21,4 @@ Here's an example that uses [cmdlet names)] to [task]. It includes commands that
 
 - [variable 1]
 - [variable 2]
- 
+
