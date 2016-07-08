@@ -1,6 +1,6 @@
 Title: Dallas Protesters Furious to Be Blamed for Murder of 5 Cops 
 Description: Fear turned to outrage by blacks who felt, again, they were being blamed for a massacre of police by at least two unidentified assailants Thursday night.
-tags: [area-of-interest>communication]
+tags: [tutorial:area-of-interest>communication]
 qrcode: true
 ---
 TEST 
