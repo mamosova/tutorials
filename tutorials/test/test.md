@@ -8,4 +8,5 @@ tags: [tutorial:product/sapHana]
 
 ---
 
-Hello!
+Hello! How are you?
+![Funny-Baby-11.jpg] (Funny-Baby-11.jpg)
