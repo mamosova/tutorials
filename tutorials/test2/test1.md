@@ -12,3 +12,5 @@ Hello!
 
 ## Examples
 Hello! Lol
+
+ ![Funny-Baby-11.jpg]
