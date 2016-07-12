@@ -208,7 +208,7 @@ Format:
 ![Funny-Baby-11.jpg](Funny-Baby-11.jpg)
 
   **Example:** 
-![Image](https://octodex.github.com/images/yaktocat.png)
+![Image](http://i.dailymail.co.uk/i/pix/2016/03/22/13/32738A6E00000578-3504412-image-a-6_1458654517341.jpg)
 ![Example](http://www.kinomania.ru/images/posters/154766.jpg)
 
 
