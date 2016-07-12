@@ -4,8 +4,7 @@ description: example
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 qrcode: true
 ---
-000000
-123456
+
 ```markup
     <?xml version="1.0" encoding="UTF-8"?>
     <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
@@ -181,7 +180,7 @@ In the words of Abraham Lincoln:
 ***There are three different types of messages: Note, Caution and Warning.***
 
 >### Warning
->jhkjhkjhkjhkj
+>Hello
 >>### Warning
 >>>### Warning
 >>>>### Warning
@@ -190,7 +189,7 @@ In the words of Abraham Lincoln:
 &nbsp;
 
 >### Caution
->iikjhiojhioji
+>Hola
 >>### Caution
 >>This is a Caution. 
 
