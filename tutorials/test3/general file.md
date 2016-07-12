@@ -209,10 +209,10 @@ Format:
 
   **Example:** 
 ![Image](http://i.dailymail.co.uk/i/pix/2016/03/22/13/32738A6E00000578-3504412-image-a-6_1458654517341.jpg)
-![Example](http://www.kinomania.ru/images/posters/154766.jpg)
+![Example](https://static.pexels.com/photos/69372/pexels-photo-69372-large.jpeg)
 
 
-![Example](http://bestfotoposter.ru/downloads/priroda/more/6000%D1%854285-96dpi-foto-oblaka-nad-morem.jpg)
+![Example](http://91ef69bade70f992a001-b6054e05bb416c4c4b6f3b0ef3e0f71d.r93.cf3.rackcdn.com/g-for-giraffe-10050248.jpg)
 
 
 ***Code blocks:***
