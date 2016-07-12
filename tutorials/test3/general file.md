@@ -204,6 +204,7 @@ In the words of Abraham Lincoln:
 ***Images*** (all images are stored on GitHub, URLs are rewritten to absolute)
 
 Format: 
+&nbsp;
 ![Funny-Baby-11.jpg](Funny-Baby-11.jpg)
 
   **Example:** 
