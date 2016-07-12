@@ -203,7 +203,8 @@ In the words of Abraham Lincoln:
 
 ***Images*** (all images are stored on GitHub, URLs are rewritten to absolute)
 
-Format: `![Alt Text](url)`
+Format: 
+![Funny-Baby-11.jpg](Funny-Baby-11.jpg)
 
   **Example:** 
 ![Image](https://octodex.github.com/images/yaktocat.png)
