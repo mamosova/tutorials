@@ -92,4 +92,124 @@ This document refers to a Nexus 2 release. In the future, Nexus 3 might also be 
   - [Landscape Configuration](http://go.sap.com/developer/tutorials/ci-best-practices-landscape.html)
   - [Back to the Navigator](http://go.sap.com/developer/tutorials/ci-best-practices-intro.html)
 
+&nbsp;
+
+```markup
+    <?xml version="1.0" encoding="UTF-8"?>
+    <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+    <display-name>cloud-weatherapp</display-name>
+    <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
+    <servlet>
+    <display-name>HelloWorldServlet</display-name>
+    <servlet-name>HelloWorldServlet</servlet-name>
+    <servlet-class>
+        com.sap.hana.cloud.samples.weatherapp.web.HelloWorldServlet
+    </servlet-class>
+    </servlet>
+    <servlet-mapping>
+    <servlet-name>HelloWorldServlet</servlet-name>
+    <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+    <login-config>
+    <auth-method>FORM</auth-method>
+    </login-config>
+    <security-constraint>
+    <web-resource-collection>
+        <web-resource-name>Protected Area</web-resource-name>
+        <url-pattern>/*</url-pattern>
+    </web-resource-collection>
+    <auth-constraint>
+        <!-- Role Everyone will not be assignable -->
+        <role-name>Everyone</role-name>
+    </auth-constraint>
+    <?xml version="1.0" encoding="UTF-8"?>
+    <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+    <display-name>cloud-weatherapp</display-name>
+    <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
+    <servlet>
+    <display-name>HelloWorldServlet</display-name>
+    <servlet-name>HelloWorldServlet</servlet-name>
+    <servlet-class>
+        com.sap.hana.cloud.samples.weatherapp.web.HelloWorldServlet
+    </servlet-class>
+    </servlet>
+    <servlet-mapping>
+    <servlet-name>HelloWorldServlet</servlet-name>
+    <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+    <login-config>
+    <auth-method>FORM</auth-method>
+    </login-config>
+    <security-constraint>
+    <web-resource-collection>
+        <web-resource-name>Protected Area</web-resource-name>
+        <url-pattern>/*</url-pattern>
+    </web-resource-collection>
+    <auth-constraint>
+        <!-- Role Everyone will not be assignable -->
+        <role-name>Everyone</role-name>
+    </auth-constraint>
+    <?xml version="1.0" encoding="UTF-8"?>
+    <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+    <display-name>cloud-weatherapp</display-name>
+    <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
+    <servlet>
+    <display-name>HelloWorldServlet</display-name>
+    <servlet-name>HelloWorldServlet</servlet-name>
+    <servlet-class>
+        com.sap.hana.cloud.samples.weatherapp.web.HelloWorldServlet
+    </servlet-class>
+    </servlet>
+    <servlet-mapping>
+    <servlet-name>HelloWorldServlet</servlet-name>
+    <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+    <login-config>
+    <auth-method>FORM</auth-method>
+    </login-config>
+    <security-constraint>
+    <web-resource-collection>
+        <web-resource-name>Protected Area</web-resource-name>
+        <url-pattern>/*</url-pattern>
+    </web-resource-collection>
+    <auth-constraint>
+        <!-- Role Everyone will not be assignable -->
+        <role-name>Everyone</role-name>
+    </auth-constraint>
+    <?xml version="1.0" encoding="UTF-8"?>
+    <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+    <display-name>cloud-weatherapp</display-name>
+    <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    </welcome-file-list>
+    <servlet>
+    <display-name>HelloWorldServlet</display-name>
+    <servlet-name>HelloWorldServlet</servlet-name>
+    <servlet-class>
+        com.sap.hana.cloud.samples.weatherapp.web.HelloWorldServlet
+    </servlet-class>
+    </servlet>
+    <servlet-mapping>
+    <servlet-name>HelloWorldServlet</servlet-name>
+    <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
+    <login-config>
+    <auth-method>FORM</auth-method>
+    </login-config>
+    <security-constraint>
+    <web-resource-collection>
+        <web-resource-name>Protected Area</web-resource-name>
+        <url-pattern>/*</url-pattern>
+    </web-resource-collection>
+    <auth-constraint>
+        <!-- Role Everyone will not be assignable -->
+        <role-name>Everyone</role-name>
+    </auth-constraint>
+```
 
