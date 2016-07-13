@@ -76,11 +76,11 @@ This document refers to a Nexus 2 release. In the future, Nexus 3 might also be 
 
 8. Open the URL `http://{nexus host}:8081/nexus`. You should now be able to access Nexus and you should see some default repositories already configured, especially two of them named `Snapshots` and `Releases`.  
 
-    ![Repositories](http://feelgrafix.com/data_images/out/12/859651-nature.jpg)
+    ![Repositories] (http://feelgrafix.com/data_images/out/12/859651-nature.jpg)
     
     Also, there is a user `deployment` that has access permissions for uploading artifacts. The default user for administrator access is `admin/admin123`.
     
-    ![Repositories](http://feelgrafix.com/data_images/out/24/944651-nature.jpg)
+    ![Repositories] (http://feelgrafix.com/data_images/out/24/944651-nature.jpg)
     
 9. To make Nexus productively runnable and secure, please follow the post-install checklist of the official documentation.
  
