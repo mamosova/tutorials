@@ -80,7 +80,7 @@ This document refers to a Nexus 2 release. In the future, Nexus 3 might also be 
     
     Also, there is a user `deployment` that has access permissions for uploading artifacts. The default user for administrator access is `admin/admin123`.
     
-    ![Repositories] (http://feelgrafix.com/data_images/out/24/944651-nature.jpg)
+    ![Repositories] (http://feelgrafix.com/data_images/out/24/944651-naturettt.jpg)
     
 9. To make Nexus productively runnable and secure, please follow the post-install checklist of the official documentation.
  
