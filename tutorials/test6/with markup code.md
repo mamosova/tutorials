@@ -12,7 +12,7 @@ tags: [  tutorial>intermediate, tutorial:type/project  ]
 
 ## Next Steps
  
-  - [Landscape Configuration](http://go.sap.com/developer/tutorials/ci-best-practices-landscape.html)
+  - [Landscape Configuration](http://go.sap.com/developer/tutorials/ci-best-practices-landscapeeee.htmleee)
   - [Back to the Navigator](http://go.sap.com/developer/tutorials/ci-best-practices-intro.html)
   
 ---
