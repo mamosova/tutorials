@@ -1,5 +1,5 @@
 ---
-title: example newed
+title: Marina example newed
 description: examplef
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 qrcode: true
