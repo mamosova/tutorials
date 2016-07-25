@@ -1,6 +1,6 @@
 ---
-title: example new
-description: example
+title: example new1
+description: example1
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 qrcode: true
 ---
