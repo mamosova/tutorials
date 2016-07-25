@@ -2,7 +2,7 @@
 title: testing CQ code
 description: example
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
-qrcode: true
+qrcode: false
 ---
 000000
 123456
