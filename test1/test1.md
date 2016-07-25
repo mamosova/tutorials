@@ -1,492 +1,131 @@
 ---
-title: example new154545
-description: example1
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
-qrcode: true
+title: Hello World! Develop your first HANA Application using the Web-based Development Workbench
+description: In this tutorial you will make your very first steps on SAP HANA and develop a very simple "Hello World" application using the SAP HANA Web-based Development Workbench on the SAP HANA Cloud Platform.
+tags: [tutorial:technology/amazon_aws, tutorial:product/sapHana, tutorial:product/hcp, tutorial:interest/gettingstarted, tutorial:product/hcp_web_workbench]
 ---
-000000
-123456
-```markup
-    <?xml version="1.0" encoding="UTF-8"?>
-    <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
-    <display-name>cloud-weatherapp</display-name>
-    <welcome-file-list>
-    <welcome-file>index.html</welcome-file>
-    </welcome-file-list>
-    <servlet>
-    <display-name>HelloWorldServlet</display-name>
-    <servlet-name>HelloWorldServlet</servlet-name>
-    <servlet-class>
-        com.sap.hana.cloud.samples.weatherapp.web.HelloWorldServlet
-    </servlet-class>
-    </servlet>
-    <servlet-mapping>
-    <servlet-name>HelloWorldServlet</servlet-name>
-    <url-pattern>/hello</url-pattern>
-    </servlet-mapping>
-    <login-config>
-    <auth-method>FORM</auth-method>
-    </login-config>
-    <security-constraint>
-    <web-resource-collection>
-        <web-resource-name>Protected Area</web-resource-name>
-        <url-pattern>/*</url-pattern>
-    </web-resource-collection>
-    <auth-constraint>
-        <!-- Role Everyone will not be assignable -->
-        <role-name>Everyone</role-name>
-    </auth-constraint>
-    <?xml version="1.0" encoding="UTF-8"?>
-    <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
-    <display-name>cloud-weatherapp</display-name>
-    <welcome-file-list>
-    <welcome-file>index.html</welcome-file>
-    </welcome-file-list>
-    <servlet>
-    <display-name>HelloWorldServlet</display-name>
-    <servlet-name>HelloWorldServlet</servlet-name>
-    <servlet-class>
-        com.sap.hana.cloud.samples.weatherapp.web.HelloWorldServlet
-    </servlet-class>
-    </servlet>
-    <servlet-mapping>
-    <servlet-name>HelloWorldServlet</servlet-name>
-    <url-pattern>/hello</url-pattern>
-    </servlet-mapping>
-    <login-config>
-    <auth-method>FORM</auth-method>
-    </login-config>
-    <security-constraint>
-    <web-resource-collection>
-        <web-resource-name>Protected Area</web-resource-name>
-        <url-pattern>/*</url-pattern>
-    </web-resource-collection>
-    <auth-constraint>
-        <!-- Role Everyone will not be assignable -->
-        <role-name>Everyone</role-name>
-    </auth-constraint>
-    <?xml version="1.0" encoding="UTF-8"?>
-    <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
-    <display-name>cloud-weatherapp</display-name>
-    <welcome-file-list>
-    <welcome-file>index.html</welcome-file>
-    </welcome-file-list>
-    <servlet>
-    <display-name>HelloWorldServlet</display-name>
-    <servlet-name>HelloWorldServlet</servlet-name>
-    <servlet-class>
-        com.sap.hana.cloud.samples.weatherapp.web.HelloWorldServlet
-    </servlet-class>
-    </servlet>
-    <servlet-mapping>
-    <servlet-name>HelloWorldServlet</servlet-name>
-    <url-pattern>/hello</url-pattern>
-    </servlet-mapping>
-    <login-config>
-    <auth-method>FORM</auth-method>
-    </login-config>
-    <security-constraint>
-    <web-resource-collection>
-        <web-resource-name>Protected Area</web-resource-name>
-        <url-pattern>/*</url-pattern>
-    </web-resource-collection>
-    <auth-constraint>
-        <!-- Role Everyone will not be assignable -->
-        <role-name>Everyone</role-name>
-    </auth-constraint>
-    <?xml version="1.0" encoding="UTF-8"?>
-    <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
-    <display-name>cloud-weatherapp</display-name>
-    <welcome-file-list>
-    <welcome-file>index.html</welcome-file>
-    </welcome-file-list>
-    <servlet>
-    <display-name>HelloWorldServlet</display-name>
-    <servlet-name>HelloWorldServlet</servlet-name>
-    <servlet-class>
-        com.sap.hana.cloud.samples.weatherapp.web.HelloWorldServlet
-    </servlet-class>
-    </servlet>
-    <servlet-mapping>
-    <servlet-name>HelloWorldServlet</servlet-name>
-    <url-pattern>/hello</url-pattern>
-    </servlet-mapping>
-    <login-config>
-    <auth-method>FORM</auth-method>
-    </login-config>
-    <security-constraint>
-    <web-resource-collection>
-        <web-resource-name>Protected Area</web-resource-name>
-        <url-pattern>/*</url-pattern>
-    </web-resource-collection>
-    <auth-constraint>
-        <!-- Role Everyone will not be assignable -->
-        <role-name>Everyone</role-name>
-    </auth-constraint>
-```
 
-You can use:
+## Prerequisites  
+You need a HANA account. Pick one of the following:
+- [Get a free account in HANA Cloud Platform](https://account.hanatrial.ondemand.com/register)
+- [Set up an account on Amazon AWS or Microsoft Azure](http://go.sap.com/developer/tutorials/hana-setup-cloud.html)
 
-***Text*** (including bold, italic, etc)
+## Next Steps
+[Hello Data! Access your first Data from a native SAP HANA Application using the SAP HANA Web-based Development Workbench](http://go.sap.com/developer/tutorials/hana-data-access-authorizations.html)
 
-  **Example:** 
-It's very easy to make some words **bold** and other words *italic* and ***bold italic*** with Markdown.
+## Details
+### You will learn  
+1. How to use the SAP HANA Web-based Development Workbench.
+2. How to develop a simple server-side application.
+3. How to publish and run an application.
 
-You can use ~~strikethrough~~ font
+### Time to Compete
+Beginners might take **10-15 minutes** to execute this tutorial.
 
-***Headers***
+> ### Information
+>The full application build in this tutorial can be found [in this GitHub repository](https://github.com/SAP/cloud-hana-helloworld/).
 
-  **Example:** 
-## This is an h2 header 
-### This is an h3 header
-###### This is an h6 header
+### ![icon_gold_circle_01.svg](http://go.sap.com/dam/application/shared/icons/icon_gold_circle_01.svg) Using HANA Cloud Platform
+Each Trial HANA instance comes with the HANA Web-based Development Workbench. The workbench allows you to develop on HANA without the need to set up a local development environment.
 
-***Lists***
+Login to the [HANA Cloud Cockpit](https://account.hanatrial.ondemand.com/cockpit) with your free developer edition account.
+Choose Databases & Schemas. You will need to create your new instance, to do this simple give it a name, enable web access and of course give a password. This password you will need to remember as it is the password for your SYSTEM user and how you will be able to access the server.
 
-  **Example:** 
-  
-Sometimes you want numbered lists:
+![1.png](1.png)
 
-1. One
-2. Two 
-3. Three
+Once you begin the creation process, you will be redirected to an events tab.
 
-Sometimes you want bullet points:
+![2.png](2.png)
 
-* Start a line with a star
-* Profit!
+Remember the instance runs for a limited time, so if you have to come back later you may need to restart it.
 
-You can create nested lists: 
+![3.png](3.png)
 
-* item1
-    * one_one
-    * two
+Just click start to restart it. Also note it’s only valid for 30 days.
 
-***Blockquotes***
+#### 2 more steps before we hit the editor
 
-  **Example:** 
-In the words of Abraham Lincoln:
-> Pardon my French
+You'll need to click on the "Admin Cockpit" first to trigger the authorizations you will need going forward.
 
-***Links***
+![4.png](4.png)
 
-  **Example:** 
-[Primer] [id]:
-[id]: http://tut.by
+Once your authorizations have applied, you should then select the "Manage Roles and Users".
 
-<http://tut.by>
+![5.png](5.png)
 
-<address@example.com>
+Here you can create a new user, this is recommended so you do not risk the "SYSTEM" user.
 
-***There are three different types of messages: Note, Caution and Warning.***
+![6.png](6.png)
 
->### Warning
->jhkjhkjhkjhkj
->>### Warning
->>>### Warning
->>>>### Warning
->>>>This is a Warning. 
+![7.png](7.png)
 
-&nbsp;
+Now simply apply new roles to the user to give this user the appropriate authorizations to begin developing.
 
->### Caution
->iikjhiojhioji
->>### Caution
->>This is a Caution. 
+![9.png](9.png)
 
-&nbsp;
+![10.png](10.png)
 
->### Note
+With that completed we can now log into the "SAP HANA Web Based Development Workbench"
 
->This is a note. 
+![11.png](11.png)
 
-&nbsp;
+You are now in the Editor and can immediately start developing in HANA.
 
-***Images*** (all images are stored on GitHub, URLs are rewritten to absolute)
+#### Using HANA on Amazon AWS or Microsoft Azure
+Access the web page of your HANA server using the IP address of your server. Enter the address ```http://XXX.XXX.XXX.XXX``` to the address bar of your browser. (Replace ```XXX.XXX.XXX.XXX``` with the IP address of your server.)
 
-Format: `![Alt Text](url)`
+On the web page, there is a link in the middle column for **Web-Based Development Workbench**. Click this link to start the workbench.
 
-  **Example:** 
-![Image](https://octodex.github.com/images/yaktocat.png)
-![Example](http://www.kinomania.ru/images/posters/154766.jpg)
+### ![icon_gold_circle_02.svg](http://go.sap.com/dam/application/shared/icons/icon_gold_circle_02.svg) Create Package for the Hello World Application
+The first step to start developing a SAP HANA application with SAP HANA Web-based Development Workbench is to create a new package for the application.
 
+Here we will create a package called `codejam`, Right-Click on the content folder on the left, and enter the package details.
 
-![Example](http://bestfotoposter.ru/downloads/priroda/more/6000%D1%854285-96dpi-foto-oblaka-nad-morem.jpg)
+![12.png](12.png)
 
+Now you have a package that is waiting for your code, now we will Right-Click on the ```codejam``` package and choose ```Create Application```
 
-***Code blocks:***
+![13.png](13.png)
 
-```markup
- quit;
- !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
-  require 'redcarpet'
-  markdown = Redcarpet.new("Hello World!")
-  puts markdown.to_html
-  exit;
-```
+This step will generate 3 files, the `.xsapp`, `.xsaccess` and an `index.html`.
+
+### ![icon_gold_circle_03.svg](http://go.sap.com/dam/application/shared/icons/icon_gold_circle_03.svg) Now Create the "Hello World" Application
+Now is the time to actually create some application code. In SAP HANA XS application code essentially is JavaScript code provided in .xsjs files. Now such a file will be created.
+
+Open the context menu of the ```helloworld``` package by right-clicking on the name and choose Create File. Enter ```helloworld.xsjs``` as file name and save with Enter:
+
+![14.png](14.png)
+
+The new empty file is now open in the Editor:
+
+![15.png](15.png)
+
+Copy and paste this code to the just created ```helloworld.xsjs``` file:
 
 ```js
- quit;
- !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
-  require 'redcarpet'
-  markdown = Redcarpet.new("Hello World!")
-  puts markdown.to_html
-  exit;
+$.response.contentType = "text/html";
+$.response.setBody("Hello World!");
 ```
 
-  **Example:** 
-```javascript
-quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  20 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  40 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  60 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  60 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  80 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  100 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  120 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  140 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  160 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  160 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  180 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {199
-```
-***Task Lists*** (Please note, this requires empty line before task list):
+Save the file using the Save button or by pressing ```ctrl+s```. Again, the successful save is confirmed in the console.
 
-  **Example:** 
-  
-- [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+![16.png](16.png)
 
-***Tables:***
+### ![icon_gold_circle_04.svg](http://go.sap.com/dam/application/shared/icons/icon_gold_circle_04.svg) Deploy, Run and Test the Application
+Now the application is ready to be tested. As you are developing with the SAP HANA Web-based Development Workbench the application is already deployed and activated to your SAP HANA Trial Instance. So you can immediately continue to test it:
 
-  **Example:** 
+Select the ```helloworld.xsjs``` file to enable the Run on Server in the toolbar. Then click the Run on Server button:
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+The application will open in your browser and greet you with Hello World:
+
+![17.png](17.png)
+
+Congratulations: You just have your first own native SAP HANA application running on SAP HANA Cloud Platform!
+
+### Related information
+[SAP HANA Development Information - official documentation](http://help.sap.com/hana_platform#section6)
 
 
-and
+## Next Steps
+Make your very first steps to access data on HANA. This tutorial will write a native HANA application, using the Web-based Development Workbench.
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+[Hello Data! Access your first Data from a native SAP HANA Application using the SAP HANA Web-based Development Workbench](http://go.sap.com/developer/tutorials/hana-data-access-authorizations.html)
