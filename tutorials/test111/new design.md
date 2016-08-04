@@ -19,6 +19,7 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
 
 ---
 
+
 1. The first step in building your application is to create a new Dynamic Web Project. Open your Eclipse IDE with the installed SAP HANA Cloud Platform Tools. Make sure the **Java EE perspective** is open by choosing **Window > Open Perspective > Other**.
 
     ![open other perspective](http://www.freedigitalphotos.net/images/img/homepage/87357.jpg)
