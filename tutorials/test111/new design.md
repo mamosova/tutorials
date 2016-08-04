@@ -5,7 +5,7 @@ tags: [ products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner ]
 ---
 
 ## Prerequisites  
- - You will need to have an account on either Microsoft Azure or Amazon AWS
+ - [You will need to have an account on either Microsoft Azure or Amazon AWS](http://go.sap.com/developer/tutorials/hana-web-development-workbench.html)
 
 ## Next Steps
  - [HANA and the Web Development Workbench](http://go.sap.com/developer/tutorials/hana-web-development-workbench.html)
