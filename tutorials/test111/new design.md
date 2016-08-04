@@ -27,7 +27,7 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
 
     ![open J2EE perspective](http://kingofwallpapers.com/images/images-169.jpg)
 
-3. The J2EE perspective is now open.
+3. The J2EE perspective is now open.1
 
     ![J2EE perspective is open](http://eskipaper.com/images/images-4.jpg)
 
