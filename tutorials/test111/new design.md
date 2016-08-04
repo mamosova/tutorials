@@ -80,8 +80,7 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
     }
     ```
 
-    ![updated `doGet` method](jav100-2-change_and_save_doget.png)
- 
+
 
     The application is now ready to run.
 
@@ -89,24 +88,19 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
 
     Navigate to your `HelloWorldServlet.java` via the **`helloworld` project node > Java Resources > `src` > `helloworld` > `HelloWorldServlet.java`**. Open the context menu on the `Servlet` with a right-click and choose the **Run on Server** option.
 
-    ![run on server](jav100-2-run_on_server.png) 
 
 
 14. Make sure that **Manually define a new server** is selected and choose **SAP > Java Web Server** as server type. Leave all other settings unchanged and click **Finish**.
 
-    ![Create local server](jav100-2-create_local_server.png)
 
 15. A local server will start with your `helloworld` application deployed. After the server is ready your application will be opened in a browser within Eclipse and greet you with "Hello World!". In the **Servers** view you can also see the running server with your application deployed.
 
-    ![App running](jav100-2-helloworld_local.png)
 
 16. To run your application on the SAP HANA Cloud Platform you will choose a different server to run it. Again, navigate to your `HelloWorldServlet.java` via the **`helloworld` project node > Java Resources > `src` > `helloworld` > `HelloWorldServlet.java`**. Open the context menu on the Servlet with a right-click and choose the **Run on Server** option.
 
-    ![run on server](jav100-2-run_on_server.png)
 
 17. As before, make sure that **Manually define a new server** is selected. This time choose **SAP > SAP HANA Cloud Platform** as server type. Make sure to set the **Landscape host** to `hanatrial.ondemand.com`. Leave all other settings unchanged and choose Next.
 
-    ![run on server - cloud](jav100-2-create_cloud_server.png)
 
     > Note: The used Landscape host `hanatrial.ondemand.com` is only valid if you are using a free Developer Account. Please change the landscape host if you want to use a productive account. The respective landscape hosts can be found in the [official documentation](https://help.hana.ondemand.com/help/frameset.htm?e4986153bb571014a2ddc2fdd682ee90.html).
     
@@ -122,7 +116,6 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
 
 19. A Cloud server will start that has your `helloworld` application deployed. After the server is ready your application will be opened in a browser in Eclipse and greet you with Hello World!. In the **Servers** view you can also see the running server with your application deployed
 
-    ![app running in HCP](jav100-2-helloworld_cloud.png)
 
     Congratulations: You have your first application running on the SAP HANA Cloud Platform!
 
