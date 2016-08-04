@@ -15,7 +15,7 @@ tags: [  tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-pla
 In this tutorial you will create a Dynamic Web project, a servlet to respond to a browser request and after running it in your local development environment, deploy it to SAP HANA Cloud Platform.
 
 ### Time to Complete
-**15 Min**.
+**15 Minutess**.
 
 ---
 
