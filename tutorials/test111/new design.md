@@ -112,7 +112,6 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
     Account Name   | Your SAP HANA Cloud Platform account name, for example `p1234567890trial`
     Username       | Your SAP HANA Cloud Platform account name, for example `p1234567890` and your password 
 
-    ![app name](jav100-2-cloud_server_data.png)
 
 19. A Cloud server will start that has your `helloworld` application deployed. After the server is ready your application will be opened in a browser in Eclipse and greet you with Hello World!. In the **Servers** view you can also see the running server with your application deployed
 
