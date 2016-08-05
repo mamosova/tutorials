@@ -6,10 +6,10 @@ tags: [  tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-pla
 
 ## Prerequisites  
  - **Proficiency:** Beginner
- - (http://go.sap.com/developer/tutorials/ci-best-practices-java-hcp.html)
+ - http://go.sap.com/developer/tutorials/ci-best-practices-java-hcp.html
  - 
 ## Next Steps
- - (http://go.sap.com/developer/tutorial-navigator.html) (http://go.sap.com/developer/tutorials.html)
+ - http://go.sap.com/developer/tutorial-navigator.html, ttp://go.sap.com/developer/tutorials.html
 
 ## Details
 ### You will learn  
