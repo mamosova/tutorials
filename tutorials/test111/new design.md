@@ -133,3 +133,19 @@ Related Information
 
 ## Next Steps
  - Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
+ - 
+ You can use:
+
+***  Text  *** (including bold, italic, etc)
+
+  **  Example:** 
+It's very easy to make some words **bold** and other words *italic* and ***bold italic*** with Markdown.
+
+You can use ~~strikethrough~~ font
+
+*** Headers***
+
+  **Example:** 
+## This is an h2 header 
+### This is an h3 header
+###### This is an h6 header
