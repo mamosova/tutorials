@@ -4,7 +4,8 @@ description: This tutorial will help you create a HANA instance in one of the tw
 tags: [ products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner ]
 ---
 
-## Prerequisites  
+## Prerequisites
+- **Proficiency:** Beginner
  - You will need to have an account on either Microsoft Azure or Amazon AWS
 
 ## Next Steps
