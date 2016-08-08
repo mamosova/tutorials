@@ -17,7 +17,7 @@ tags: [ products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner ]
 How to create a HANA instance in your cloud provider, using the Cloud Appliance Library (CAL) system.
 This tutorial provides step by step instructions to walk you through the CAL setup process.
 
-### Time to Compete
+### Time to Complete
 This section takes about **10 minutes** to complete, and about **10 to 25 minutes** after completion to get the Virtual Machine started.
 
 > ### Warning
