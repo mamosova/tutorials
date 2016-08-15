@@ -6,7 +6,7 @@ tags: [tutorial:technology/amazon_aws, tutorial:product/sapHana, tutorial:produc
 
 ## Prerequisites  
 You need a HANA account. Pick one of the following:
-- [Get a free account in HANA Cloud Platform](https://account.hanatrial.ondemand.com/register)
+- [Get a free account in HANA Cloud Platform](https://account.hanatrial.ondemand.com/register23234)
 - [Set up an account on Amazon AWS or Microsoft Azure](http://go.sap.com/developer/tutorials/hana-setup-cloud.html)
 
 ## Next Steps
