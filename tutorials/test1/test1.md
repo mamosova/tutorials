@@ -10,7 +10,7 @@ You need a HANA account. Pick one of the following:
 - [Set up an account on Amazon AWS or Microsoft Azure](http://go.sap.com/developer/tutorials/hana-setup-cloud.html)
 
 ## Next Steps
-[Hello Data! Access your first Data from a native SAP HANA Application using the SAP HANA Web-based Development Workbench](http://go.sap.com/developer/tutorials/hana-data-access-authorizations.html)
+[Hello Data! Access your first Data from a native SAP HANA Application using the SAP HANA Web-based Development Workbench](ht/go.sap.com/developer/tutorials/hana-data-access-authorizations.html)
 
 ## Details
 ### You will learn  
