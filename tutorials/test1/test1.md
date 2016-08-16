@@ -48,7 +48,7 @@ You'll need to click on the "Admin Cockpit" first to trigger the authorizations 
 
 ![4.png](4.png)
 
-Once your authorizations have applied, you should then select the "Manage Roles and Users".
+Once your authorizations have applided, you should then select the "Manage Roles and Users".
 
 ![5.png](5.png)
 
