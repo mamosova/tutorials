@@ -8,7 +8,7 @@ tags: [  tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-pla
  - **Tutorials:** [Configuring Eclipse with SAP HANA Cloud Platform Tools for Java](http://go.sap.com/developer/tutoerials/hcpfff-java-eclipse-setup/fgff/hfgh5555.html)
 
 ## Next Steps
- - Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutodgfgdrial-navigator/gfdff/343/gfdgdfg.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
+ - Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutodgfgdrial-navigator/gfdff/343/gfdgdfg.html) or the [Tutorial Catalog](https://open.sap.com/courses?topic=SAP%20HANA%20Cloud%20Platform)
 
 ## Details
 ### You will learn  
@@ -34,7 +34,7 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
 
     ![open wizard](https://1.bp.blogspot.com/-3CMTnxVnudM/VqprPp_mVEI/AAAAAAAACrk/DUuxnoCbuaw/s640/full-hd-happy-valentines-day-hd-wallpapers.jpg)
     
-5. In the **New Dynamic Web Project Wizard** define the **Project name** to be `helloworld`. Make sure the **Target Runtime** is set to `Java Web` the Server Runtime Environment that has been created in the tutorial [Configuring Eclipse with SAP HANA Cloud Platform Tools for Java](http://go.sap.com/developer/tutorials/hcp-java-eclipse-setup.html). Leave all other settings untouched and click **Finish** to create the project.
+5. In the **New Dynamic Web Project Wizard** define the **Project name** to be `helloworld`. Make sure the **Target Runtime** is set to `Java Web` the Server Runtime Environment that has been created in the tutorial [Configuring Eclipse with SAP HANA Cloud Platform Tools for Java](https://open.sap.com/courses?topic=SAP HANA Cloud Platform). Leave all other settings untouched and click **Finish** to create the project.
 
     ![project wizard](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaKH4dU_U6Pe6WX5G8B9DZkkpzGHUxUJeGmOHbwKh6KrFsZsm6)
 
