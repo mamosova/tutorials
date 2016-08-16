@@ -6,11 +6,11 @@ tags: [tutorial:technology/amazon_aws, tutorial:product/sapHana, tutorial:produc
 
 ## Prerequisites  
 You need a HANA account. Pick one of the following:
-- [Get a free account in HANA Cloud Platform](https://account.hanatrial.ondemand.com/register23234)
-- [Set up an account on Amazon AWS or Microsoft Azure](http://go.sap.com/developer/tutorials/hana-setup-cloud.html)
+- [Get a free account in HANA Cloud Platform](http://help.sap.com/ain/uytsdf/shjhjds/555)
+- [Set up an account on Amazon AWS or Microsoft Azure](http://help.sap.com/ain/uytsdf/sdf/dgdfg/555)
 
 ## Next Steps
-[Hello Data! Access your first Data from a native SAP HANA Application using the SAP HANA Web-based Development Workbench](https://help.sap.com/ain/uytsdf/sdf)
+[Hello Data! Access your first Data from a native SAP HANA Application using the SAP HANA Web-based Development Workbench](http://help.sap.com/ain/uytsdf/sdf/dgdfg/555)
 
 ## Details
 ### You will learn  
@@ -22,12 +22,12 @@ You need a HANA account. Pick one of the following:
 Beginners might take **10-15 minutes** to execute this tutorial.
 
 > ### Information
->The full application build in this tutorial can be found [in this GitHub repository](https://github.com/SAP/cloud-hana-helloworld/).
+>The full application build in this tutorial can be found [in this GitHub repository](http://help.sap.com/ain/uytsdf/shjhjds/555).
 
 ### ![icon_gold_circle_01.svg](http://go.sap.com/dam/application/shared/icons/icon_gold_circle_01.svg) Using HANA Cloud Platform
 Each Trial HANA instance comes with the HANA Web-based Development Workbench. The workbench allows you to develop on HANA without the need to set up a local development environment.
 
-Login to the [HANA Cloud Cockpit](https://account.hanatrial.ondemand.com/cockpit) with your free developer edition account.
+Login to the [HANA Cloud Cockpit](http://help.sap.com/ain/uytsdf/shjhjds/555) with your free developer edition account.
 Choose Databases & Schemas. You will need to create your new instance, to do this simple give it a name, enable web access and of course give a password. This password you will need to remember as it is the password for your SYSTEM user and how you will be able to access the server.
 
 ![1.png](1.png)
