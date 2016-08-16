@@ -209,10 +209,11 @@ Format: `![Alt Text](url)`
   **Example:** 
 ![Image](https://octodex.github.com/images/yaktocat.png)
 ![Example](http://www.kinomania.ru/images/posters/154766.jpg)
-
-
 ![Example](http://bestfotoposter.ru/downloads/priroda/more/6000%D1%854285-96dpi-foto-oblaka-nad-morem.jpg)
 
+Format: `![Alt Text](Image from folder)`
+  **Example:** 
+![Image](Funny-Baby-11.jpg)
 
 ***Code blocks:***
 
