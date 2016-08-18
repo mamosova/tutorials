@@ -147,3 +147,16 @@ For more detailed instructions, check out [Connecting to Microsoft Azure with SS
 Make your very first steps on SAP HANA and develop a very simple "Hello World" application using the SAP HANA Web-based Development Workbench on the SAP HANA Cloud Platform.
 
  - [HANA and the Web Development Workbench](http://go.sap.com/developer/tutorials/hana-web-development-workbench.html)
+ - 
+ 
+[ACCORDION-BEGIN [STEP 13](Current Community, New Experience)]
+We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 12](Build Relationships and Reputation)]
+We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 33](Tips and Tricks)]
+We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
+[ACCORDION-END]
