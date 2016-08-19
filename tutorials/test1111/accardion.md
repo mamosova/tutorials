@@ -265,3 +265,25 @@ In the words of Abraham Lincoln:
 - [x] this is a complete item
 - [ ] this is an incomplete item
 [ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 12](Accordion component which contains code block and no code block in Body)]
+***Code blocks:***
+
+```markup
+ quit;
+ !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
+  require 'redcarpet'
+  markdown = Redcarpet.new("Hello World!")
+  puts markdown.to_html
+  exit;
+```
+
+```js
+ quit;
+ !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
+  require 'redcarpet'
+  markdown = Redcarpet.new("Hello World!")
+  puts markdown.to_html
+  exit;
+```
+[ACCORDION-END]
