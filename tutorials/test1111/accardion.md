@@ -37,7 +37,7 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
 
 
 [ACCORDION-BEGIN [STEP 1](Accordion component which contains Images in Body)]
-    ![J2EE perspective is open](http://eskipaper.com/images/images-4.jpg)
+    ![Repositories](Funny-Baby-11.jpg)
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 2](Accordion component which contains link(s) in Body)]
