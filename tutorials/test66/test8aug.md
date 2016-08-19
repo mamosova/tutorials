@@ -14,7 +14,7 @@ tags: [ products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner ]
 ## Details
 
 ### You will learn  
-How to create a HANA instance in your cloud provider, using the Cloud Appliance Library (CAL) system.
+How to create a HANA instance in your cloud provider, using the Cloud Appliance Library (CAL) systemm.
 This tutorial provides step by step instructions to walk you through the CAL setup process.
 
 ### Time to Complete
