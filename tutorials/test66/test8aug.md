@@ -160,3 +160,26 @@ We are currently in open beta for the new SAP community. Here's your opportunity
 [ACCORDION-BEGIN [STEP 13](Build Relationships and Reputation1)]
 We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
 [ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 1](#the forth step)]
+***Lists***
+
+  **Example:** 
+  
+Sometimes you want numbered lists:
+
+1. One
+2. Two 
+3. Three
+
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
+
+You can create nested lists: 
+
+* item1
+    * one_one
+    * two
+[ACCORDION-END] 
