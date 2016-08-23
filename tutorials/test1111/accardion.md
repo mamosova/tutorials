@@ -19,9 +19,11 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
 
 ![J2EE perspective is open](http://eskipaper.com/images/images-4.jpg)
 
-[ACCORDION-BEGIN [after text](#step1)]
+[ACCORDION-BEGIN [STEP 1](Accordion component which contains Text in Body)]
+We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
 [VALIDATE_1]
-[ACCORDION-END]      
+[ACCORDION-END]
+
 [ACCORDION-BEGIN [STEP 2](#step2)]
 [VALIDATE_2]
 [ACCORDION-END]
