@@ -1,4 +1,4 @@
-[STEP 1]
+[VALIDATION_1]
 ###Rule
 exact-match
 
@@ -6,10 +6,10 @@ exact-match
 Marina's age?
 
 ###Match
-30
-[STEP 1 - END]
+secret
+[VALIDATION_1]
 
-[STEP 2]
+[VALIDATION_2]
 ###Rule
 regex-substring
 
@@ -18,20 +18,20 @@ Enter Marina's surname?
 
 ###Match
 Amosova
-[STEP 2 - END]
+[VALIDATION_2]
 
-[STEP 3]
+[VALIDATION_3]
 ###Rule
-regex-begins-with
+regex-substring
 
 ###Question
 What is day today?
 
 ###Match
 Monday
-[STEP 3 - END]
+[VALIDATION_3]
 
-[STEP 4]
+[VALIDATION_4]
 ###Rule
 regex-with-id-exact-match
 
@@ -40,4 +40,5 @@ Enter city where Marina lives
 
 ###Match
 Grodno
-[STEP 4 - END]
+[VALIDATION_4]
+
