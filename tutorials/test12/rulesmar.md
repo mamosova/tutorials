@@ -25,8 +25,3 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 [ACCORDION-BEGIN [STEP 4](Test 4)]
 [VALIDATE_4]
 [ACCORDION-END]
-
-
-
-
-
