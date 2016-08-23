@@ -14,14 +14,16 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 
 [ACCORDION-BEGIN [STEP 1](Test 1)]
 [VALIDATE_1]
-[ACCORDION-END]
+[ACCORDION-END] 
 
 [ACCORDION-BEGIN [STEP 2](Test 2)]
 [VALIDATE_2]
 [ACCORDION-END]
+
 [ACCORDION-BEGIN [STEP 3](Test 3)]
 [VALIDATE_3]
 [ACCORDION-END]
+
 [ACCORDION-BEGIN [STEP 4](Test 4)]
 [VALIDATE_4]
 [ACCORDION-END]
