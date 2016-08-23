@@ -19,6 +19,19 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
 
 ![J2EE perspective is open](http://eskipaper.com/images/images-4.jpg)
 
+[ACCORDION-BEGIN [after text](#step1)]
+[VALIDATE_1]
+[ACCORDION-END]      
+[ACCORDION-BEGIN [STEP 2](#step2)]
+[VALIDATE_2]
+[ACCORDION-END]
+[ACCORDION-BEGIN [STEP 2](#step2)]
+[VALIDATE_3]
+[ACCORDION-END]
+[ACCORDION-BEGIN [STEP 2](#step2)]
+[VALIDATE_4]
+[ACCORDION-END]
+
 1. The first step in building your application is to create a new Dynamic Web Project. Open your Eclipse IDE with the installed SAP HANA Cloud Platform Tools. Make  sure the **Java EE perspective** is open by choosing **Window > Open Perspective > Other**.
 
     ![open other perspective](http://www.freedigitalphotos.net/images/img/homepage/87357.jpg)
