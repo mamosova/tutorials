@@ -12,19 +12,19 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 2. How to create a connection to the HANA back endddв
 3. Getting started with the HANA Web based development workbench
 
-[ACCORDION-BEGIN [STEP 1](#step1)]
+[ACCORDION-BEGIN [STEP 1](Test 1)]
 [VALIDATE_1]
 [ACCORDION-END] 
 
-[ACCORDION-BEGIN [STEP 2](#step2)]
+[ACCORDION-BEGIN [STEP 2](Test 2)]
 [VALIDATE_2]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 3](#step3)]
+[ACCORDION-BEGIN [STEP 3](Test 3)]
 [VALIDATE_3]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 4](#step4)]
+[ACCORDION-BEGIN [STEP 4](Test 4)]
 [VALIDATE_4]
 [ACCORDION-END]
 
