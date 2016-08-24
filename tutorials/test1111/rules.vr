@@ -29,7 +29,7 @@ Enter the price with the currency symbol for Chai
 ###Match
 €
 [VALIDATE_3]
-[VALIDATE_10]
+[VALIDATE_4]
 ###Rule
 regex-with-id-exact-match
 
@@ -38,8 +38,8 @@ Enter URL to your application
 
 ###Match
 https://codejam[id]trail.hanatrial.ondemand.com/codejam/mylibrary.xsjs
-[VALIDATE_10]
-[VALIDATE_11]
+[VALIDATE_4]
+[VALIDATE_5]
 ###Rule
 http-status-check
 
@@ -48,8 +48,8 @@ Enter your application url
 
 ###Match
 200 or 201
-[VALIDATE_11]
-[VALIDATE_12]
+[VALIDATE_5]
+[VALIDATE_6]
 ###Rule
 response-regex-exact-match
 
@@ -63,8 +63,8 @@ My Personal Library!
 This is the response from my SQL:
 
 1 Learning SAP HANA Educational 2016-01-29 09:00:00:0000000
-[VALIDATE_12]
-[VALIDATE_13]
+[VALIDATE_6]
+[VALIDATE_7]
 ###Rule
 restapi-status-check
 
@@ -73,4 +73,4 @@ Enter your application url
 
 ###Match
 200 or 201
-[VALIDATE_13]
+[VALIDATE_7]
