@@ -1,6 +1,6 @@
 ---
 title: Accardion from Marinko
-description: Develop and deploy your first Java application using the SAP HANA Cloud Platform Tools for Java
+description: Develop and 11deploy your first Java application using the SAP HANA Cloud Platform Tools for Java
 tags: [  tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-platform ]
 ---
 ## Prerequisites  
