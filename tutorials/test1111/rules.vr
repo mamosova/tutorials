@@ -1,4 +1,4 @@
-[STEP 1]
+[VALIDATE_1]
 ###Rule
 exact-match
 
@@ -8,8 +8,8 @@ Enter the result from the "Product Inventory Details" for Chai
 ###Match
 18,000
 10 boxes x 20 bags
-[STEP 1 - END]
-[STEP 2]
+[VALIDATE_1]
+[VALIDATE_2]
 ###Rule
 regex-substring
 
@@ -18,8 +18,8 @@ Enter _setModel code block
 
 ###Match
 some multi-line code block
-[STEP 2 - END]
-[STEP 3]
+[VALIDATE_2]
+[VALIDATE_3]
 ###Rule
 regex-begins-with
 
@@ -28,8 +28,8 @@ Enter the price with the currency symbol for Chai
 
 ###Match
 €
-[STEP 3 - END]
-[STEP 10]
+[VALIDATE_3]
+[VALIDATE_10]
 ###Rule
 regex-with-id-exact-match
 
@@ -38,8 +38,8 @@ Enter URL to your application
 
 ###Match
 https://codejam[id]trail.hanatrial.ondemand.com/codejam/mylibrary.xsjs
-[STEP 10 - END]
-[STEP 10]
+[VALIDATE_10]
+[VALIDATE_11]
 ###Rule
 http-status-check
 
@@ -48,8 +48,8 @@ Enter your application url
 
 ###Match
 200 or 201
-[STEP 10 - END]
-[STEP 10]
+[VALIDATE_11]
+[VALIDATE_12]
 ###Rule
 response-regex-exact-match
 
@@ -63,8 +63,8 @@ My Personal Library!
 This is the response from my SQL:
 
 1 Learning SAP HANA Educational 2016-01-29 09:00:00:0000000
-[STEP 10 - END]
-[STEP 11]
+[VALIDATE_12]
+[VALIDATE_13]
 ###Rule
 restapi-status-check
 
@@ -73,4 +73,4 @@ Enter your application url
 
 ###Match
 200 or 201
-[STEP 11 - END]
+[VALIDATE_13]
