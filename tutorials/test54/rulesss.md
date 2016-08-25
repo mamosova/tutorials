@@ -9,7 +9,7 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 ## Details
 ### You will learn  
 1. How to use HANA Studio Pe1rspectives
-2. How to create a connectiodn to the HAhNA back endddв
+2. How to create a connectiodn to the gHAhNA back endddв
 3. Getting started with the HANA Web based development workbench
 
 [ACCORDION-BEGIN [STEP 1](#the first step)] We a1re currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members. [ACCORDION-END]    
