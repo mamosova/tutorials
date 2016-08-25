@@ -1,6 +1,6 @@
 [VALIDATE_1]
 ###Rule
-Regex begins with
+regex_begins_with
 
 ###Question
 Enter first kuplet from one song. Song is "Yestrday"
