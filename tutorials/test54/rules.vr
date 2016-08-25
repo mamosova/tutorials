@@ -14,7 +14,7 @@ Oh, I believe in yesterday
 
 [VALIDATE_2]
 ###Rule
-regex-substring
+Regex with id Exact Match
 
 ###Question
 Enter Marina's surname?
