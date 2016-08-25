@@ -1,37 +1,43 @@
 [VALIDATE_1]
 ###Rule
+exact-match
+
+###Question
+How much cost a dress for little girl in Grodno?
+
+###Match
+200$
+[VALIDATE_1]
+
+[VALIDATE_2]
+###Rule
+regex-substring
+
+###Question
+Enter code for tutorial?
+
+###Match
+js
+quit;
+!@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+exit;
+[VALIDATE_2]
+
+[VALIDATE_3]
+###Rule
 regex-begins-with
 
 ###Question
-Enter first kuplet from one song. Song is "Yestrday"
+Enter first kuplet from one song. Song is "Yesterday"
 
 ###Match
 Yesterday,
 All my troubles seemed so far away
 Now it looks as though they're here to stay
 Oh, I believe in yesterday
-[VALIDATE_1]
-
-[VALIDATE_2]
-###Rule
-Regex with id Exact Match
-
-###Question
-Enter Marina's surname?
-
-###Match
-Amosova
-[VALIDATE_2]
-
-[VALIDATE_3]
-###Rule
-regex-substring
-
-###Question
-What is day today?
-
-###Match
-Monday
 [VALIDATE_3]
 
 [VALIDATE_4]
@@ -39,8 +45,8 @@ Monday
 regex-with-id-exact-match
 
 ###Question
-Enter city where Marina lives
+Enter Marina's ID 
 
 ###Match
-Grodno
+c
 [VALIDATE_4]
