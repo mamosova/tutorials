@@ -16,13 +16,13 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 [ACCORDION-BEGIN [STEP 2](#the second step)] Unfortunately the SAP Community Network is currently down. We are addressing the matter with the utmost urgency and apologize for the inconvenience. [ACCORDION-END]
 
 
-[ACCORDION-BEGIN [STEP 1](#step1)]
+[ACCORDION-BEGIN [STEP 1](Validation form with exact-match)]
 [VALIDATE_1]
 [ACCORDION-END]      
-[ACCORDION-BEGIN [STEP 2](#step2)]
+[ACCORDION-BEGIN [STEP 2](Validation form with regex-substring)]
 [VALIDATE_2]
 [ACCORDION-END]
-[ACCORDION-BEGIN [STEP 3](#step3)]
+[ACCORDION-BEGIN [STEP 3](Validation form with regex-begins-with)]
 [VALIDATE_3]
 ***Task Lists*** (Please note, this requires empty line before task list):
 
@@ -52,7 +52,7 @@ and
 | zebra stripes | are neat        |    $1 |
 
 [ACCORDION-END]
-[ACCORDION-BEGIN [STEP 4](#step4)]
+[ACCORDION-BEGIN [STEP 4](Validation form with regex-with-id-exact-match)]
 [VALIDATE_4]
 [ACCORDION-END]
 
