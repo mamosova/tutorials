@@ -24,6 +24,33 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 3](#step3)]
 [VALIDATE_3]
+***Task Lists*** (Please note, this requires empty line before task list):
+
+  **Example:** 
+  
+- [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+***Tables:***
+
+  **Example:** 
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
+and
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
+
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 4](#step4)]
 [VALIDATE_4]
