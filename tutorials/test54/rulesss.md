@@ -30,7 +30,7 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
   
 - [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
 - [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
+- [x] this is a complefgte item
 - [ ] this is an incomplete item
 
 ***Tables:***
