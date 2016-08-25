@@ -1,6 +1,6 @@
 [VALIDATE_1]
 ###Rule
-exact-match
+Regex begins with
 
 ###Question
 Enter first kuplet from one song. Song is "Yestrday"
