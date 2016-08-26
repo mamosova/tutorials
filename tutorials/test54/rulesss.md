@@ -21,6 +21,7 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 [ACCORDION-END]      
 [ACCORDION-BEGIN [STEP 2](Validation form with regex-substring)]
 [VALIDATE_2]
+We a1re currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 3](Validation form with regex-begins-with)]
 [VALIDATE_3]
