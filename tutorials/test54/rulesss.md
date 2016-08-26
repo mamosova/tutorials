@@ -25,6 +25,7 @@ We a1re currently in open beta for the new SAP community. Here's your opportunit
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 3](Validation form with regex-begins-with)]
 [VALIDATE_3]
+
 ***Task Lists*** (Please note, this requires empty line before task list):
 
   **Example:** 
