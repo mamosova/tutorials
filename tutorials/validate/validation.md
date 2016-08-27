@@ -1,6 +1,6 @@
 ---
 title: SAP HANA XS Classic, Access your first data in a SAP HANA XSC Application
-description: Create a Destination to allow HANA Cloud Platform to nbvread/write data
+description: C1reate a Destination to allow HANA Cloud Platform to nbvread/write data
 tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettingstarted]
 ---
 
