@@ -47,9 +47,9 @@ Access the web page of your HANA server using the IP address of your server.  En
 [ACCORDION-BEGIN [STEP 1](#the first step)] We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members. [ACCORDION-END]    
 [ACCORDION-BEGIN [STEP 2](#the second step)] Unfortunately the SAP Community Network is currently down. We are addressing the matter with the utmost urgency and apologize for the inconvenience. [ACCORDION-END]
 
-
-[ACCORDION-BEGIN [STEP 1](Validation form with exact-match)]
 [VALIDATE_1]
+[ACCORDION-BEGIN [STEP 1](Validation form with exact-match)]
+
 Every month, a member of SCN is recognized for sharing knowledge with peers, being helpful, and taking on additional tasks to support community engagement. Could you be next
 [ACCORDION-END]
 
