@@ -2,6 +2,7 @@
 ###Rule
 exact-match
 
-###Match
-200€
+
+###Question
+Enter _setModel code block
 [VALIDATE_1]
