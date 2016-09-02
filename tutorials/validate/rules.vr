@@ -1,6 +1,6 @@
 [VALIDATE_1]
-###Question
-Enter _setModel code block
+###Rule
+exact-match
 
 ###Match
 123
