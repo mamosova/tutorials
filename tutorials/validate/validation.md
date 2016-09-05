@@ -1,5 +1,5 @@
 ---
-title: SAP HANA XS Classic, Access your first data in a SAP HANA XSC Application
+title: S11AP HANA XS Classic, Access your first data in a SAP HANA XSC Application
 description: C12reate a Destination to allow HANA Cloud Platform to nbvread/write data
 tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettingstarted]
 ---
