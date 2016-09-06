@@ -5,7 +5,7 @@ tags: [ products>sap-hana-cloud-platform, topic>cloud, topic>java, tutorial>bbb]
 ---
 
 ## Prerequisites  
- - [End-to-End Weather App Scenario Part 8](http://go.sap.com/developer/tutorials/hcp-java-weatherapp-part8.html)
+ - [End-to-End Weather App Scenario Part 8](http://go.sap.com/developer/tutorials/hcp-java-weatherapp-part8vbv454.html5645)
 
 ## Next Steps
  - [End-to-End Weather App Scenario Part 10](http://go.sap.com/developer/tutorials/hcp-java-weatherapp-part10.html)
