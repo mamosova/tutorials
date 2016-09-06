@@ -9,4 +9,8 @@ In the words of Abraham Lincoln:
 > Pardon my French
 
   ![Implementation](Funny-Baby-11.jpg)
+   
+    **Example:** 
+![Image](https://octodex.github.com/images/yaktocat.png)
+![Example](http://www.kinomania.ru/images/posters/154766.jpg)
 
