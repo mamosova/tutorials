@@ -167,8 +167,9 @@ You can create nested lists:
 In the words of Abraham Lincoln:
 > Pardon my French
 
+     ![Implementation](Funny-Baby-11.jpg)
     
-    ![Implementation](Funny-Baby-11.jpg)
+    
 
 ***Links***
 
