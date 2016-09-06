@@ -8,7 +8,7 @@ tags: [tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-platf
 In the words of Abraham Lincoln:
 > Pardon my French
 
- ![Implementation] (Funny-Baby-11.jpg)
+![Implementation] (Funny-Baby-11.jpg)
    
     **Example:** 
 ![Image](https://octodex.github.com/images/yaktocat.png)
