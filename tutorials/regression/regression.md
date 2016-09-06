@@ -6,6 +6,7 @@ tags: [tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-platf
 
 **Example:** 
 In the words of Abraham Lincoln:
+> Pardon my French
 
 ![Implementation] (Funny-Baby-11.jpg)
    
