@@ -11,9 +11,7 @@ tags: [ products>sap-hana-cloud-platform, topic>cloud, topic>java, tutorials>bbb
  - [End-to-End Weather App Scenario Part 10](http://go.sap.com/developer/tutorials/hcp-java-weatherapp-part10.html)
 
 ## Details
-Every month, a member of SCN is recognized for sharing knowledge with peers, being helpful, and taking on additional tasks to support community engagement. Could you be next?
-### You will learn  
-In this tutorial you will implement a simple responsive, mobile-compatible user interface using OpenUI5.
+Every month, a member of SCN is rsi
 
 ### Time to Complete
 **15 min**
