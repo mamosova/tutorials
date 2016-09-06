@@ -1,6 +1,6 @@
 ---
 title: Community Beta Conversations
-description: example
+description: example2312
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 
 ---
