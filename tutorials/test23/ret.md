@@ -1,7 +1,7 @@
 ---
 title: regex sub string check
 description: test page for several rules 
-tags: [ products>sap-hana-cloud-platform, topic>cloud, topic>java, tutorial>bbb]
+tags: [ products>sap-hana-cloud-platform, topic>cloud, topic>java]
 ---
 
 ## Prerequisites  
