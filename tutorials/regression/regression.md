@@ -1,8 +1,7 @@
 ---
-title: example new
-description: example
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
-qrcode: true
+title: System requirements for SAP Crystal Reports Viewer
+description: System and software requirements vary according to specific customer scenarios – please refer to the SAP Crystal Reports Viewer Sizing Guide for details. Also, please see the SAP Crystal Reports Viewer Product Availability Matrix for the latest information on updates and releases.
+tags: [tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-platform]
 ---
 000000
 123456
@@ -167,6 +166,8 @@ You can create nested lists:
   **Example:** 
 In the words of Abraham Lincoln:
 > Pardon my French
+
+![Implementation](Funny-Baby-11.jpg)
 
 ***Links***
 
