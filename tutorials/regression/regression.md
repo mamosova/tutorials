@@ -12,5 +12,5 @@ In the words of Abraham Lincoln:
    
     **Example:** 
 ![Image](https://octodex.github.com/images/yaktocat.png)
-![Example](http://www.kinomania.ru/images/posters/154766.jpg)
+![Example](http://go-qa.sap.com/dam/application/imagelibrary/photos/273000/273336.jpg.adapt.450_255.false.false.false.false.jpg)
 
