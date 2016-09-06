@@ -4,6 +4,9 @@ description: System and software requirements vary according to specific custome
 tags: [tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-platform]
 ---
 
+**Example:** 
+In the words of Abraham Lincoln:
+> Pardon my French
  
 ![Implementation] (Funny-Baby-11.jpg)
    
