@@ -1,7 +1,7 @@
 ---
 title: Community Beta Conversations
 description: example2312
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
+tags: [tutorial>Communication]
 
 ---
 000000
