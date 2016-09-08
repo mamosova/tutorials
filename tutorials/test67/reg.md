@@ -9,6 +9,8 @@ tags: [agreements>Support Terms]
 ![Image](https://octo11dex.github.com/images/yaktocat11.png)
 ![Example](http://www.kinomania.ru/images/posters/154766.jpg)
 
+https://google.com/some 
+http://go.sap.com/developer/tutorials1/ci-best-practices34gffghf-intro.html11
 
 ![Example](http://bestfotoposter.ru/downloads/priroda/more/6000%D1%854285-96dpi-foto-oblaka-nad-morem11.jpg1)
 
