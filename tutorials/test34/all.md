@@ -1,7 +1,7 @@
 ---
 title: example new
 description: example
-tags: [tutorial:mobile]
+tags: [products>sap-hana, products>sap-hana-cloud-platform, tutorial>beginner]
 ---
 000000
 123456
