@@ -53,6 +53,8 @@ We are currently in open beta for the new SAP community. Here's your opportunity
 
 [ACCORDION-BEGIN [STEP 1](Accordion component which contains Images in Body)]
     ![Repositories](Funny-Baby-11.jpg)
+    ![Repositories](Capture T.PNG)
+
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 2](Accordion component which contains link(s) in Body)]
