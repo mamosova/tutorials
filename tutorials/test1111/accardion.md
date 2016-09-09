@@ -5,7 +5,7 @@ tags: [  tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-pla
 ---
 ## Prerequisites  
  - **Proficiency:** Beginner
- - **Tutorials:** [Configuring Eclipse with SAP HANA Cloud Platform Tools for Java](http://go.sap.com/developer/tutorials/hcp-java-eclipse-setup.html)
+ - **Tutorials:** [Configuring Eclipse with SAP HANA Cloud Platform Tools for Java](https://github.com/mamosova/tutorials/edit/master/tutorials/test1111/accardion.md)
 
 ## Next Steps
  - Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
