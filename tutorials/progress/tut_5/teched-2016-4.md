@@ -1,5 +1,5 @@
 ---
-title: Learn more about all the easy, flexible ways
+title: teched 2016 4
 description: Create a Destination to allow HANA Cloud Platform to nbvread/write data
 tags: [tutorial:product/mobile]
 ---
