@@ -21,3 +21,7 @@ tags: [tutorial:product/mobile]
 [ACCORDION-BEGIN [STEP 3](Answer - 8)]
 [VALIDATE_3]
 [ACCORDION-END]
+[ACCORDION-BEGIN [STEP 4](Done button)]
+
+[DONE]
+[ACCORDION-END] 
