@@ -24,4 +24,4 @@ tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettings
 [ACCORDION-BEGIN [STEP 4](Done button)]
 
 [DONE]
-[ACCORDION-END
+[ACCORDION-END]
