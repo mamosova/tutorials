@@ -24,4 +24,4 @@ tags: [tutorial:product/mobile]
 [ACCORDION-BEGIN [STEP 4](Done button)]
 
 [DONE]
-[ACCORDION-END
+[ACCORDION-END]
