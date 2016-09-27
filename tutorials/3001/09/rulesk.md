@@ -15,7 +15,12 @@ tags: [tutorial:product/mobile]
 [ACCORDION-BEGIN [STEP 1](http-status-check)]
 [VALIDATE_1]
 We a1re currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members
-[ACCORDION-END]      
+[ACCORDION-END]    
+
+[ACCORDION-BEGIN [STEP 1](http-status-check)]
+[VALIDATE_1]
+We a1re currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members
+[ACCORDION-END] 
 
 ***Task Lists*** (Please note, this requires empty line before task list):
 
