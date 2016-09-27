@@ -12,19 +12,10 @@ tags: [tutorial:product/mobile]
 2. How to create a connectiodn to the gHAhNA back endddв
 3. Getting starhted with the HANA Web based development workbench
 
-[ACCORDION-BEGIN [STEP 1](#the first step)] We a1re currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members. [ACCORDION-END]    
-[ACCORDION-BEGIN [STEP 2](#the second step)] Unfortunately the SAP Community Network is currently down. We are addressing the matter with the utmost urgency and apologize for the inconvenience. [ACCORDION-END]
-
-
-[ACCORDION-BEGIN [STEP 1](Validation form with exact-match)]
+[ACCORDION-BEGIN [STEP 1](http-status-check)]
 [VALIDATE_1]
 [ACCORDION-END]      
-[ACCORDION-BEGIN [STEP 2](Validation form with regex-substring)]
-[VALIDATE_2]
-We a1re currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 3](Validation form with regex-begins-with)]
-[VALIDATE_3]
+
 ***Task Lists*** (Please note, this requires empty line before task list):
 
   **Example:** 
