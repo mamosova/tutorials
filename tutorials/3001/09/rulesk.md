@@ -43,10 +43,7 @@ and
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 4](Validation form with regex-with-id-exact-match)]
-[VALIDATE_4]
-[ACCORDION-END]
+
 
 
 
