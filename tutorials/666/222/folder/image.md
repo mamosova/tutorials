@@ -26,7 +26,7 @@ If you are interested in other examples of CI/CD processes with a focus on speci
 
 Note: This document is restricted to the description of component installation on Linux. For installation on Windows, we refer to the installation documentation on the web.
 
-
+![Repositories1] (Funny-Baby-11.jpg)
 
 The interface between local (single developer) and collaborative (team) development is the source code versioning tool together with a code review system. The source code versioning tool is as well the interface to any sequel step, most importantly, the build step in the overall CI process.
 
