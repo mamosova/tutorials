@@ -1,6 +1,6 @@
 ---
 
-title: Test Image Source Code Versioning System
+title: Test 100% Image Source Code Versioning System
 description: Part 3.1: Setting up a Git/Gerrit Instance.
 tags: [ agreements:distribution_agreements/gtc ]
 
