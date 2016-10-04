@@ -18,7 +18,7 @@ tags: [  tutorial>intermediate, tutorial:type/project ]
 ---
 
 
-This scenario focuses on using publicly available services to build Java applications very quickly and efficiently using the cloud services GitHub and Travis CI. There is no need to set up any local infrastructure.
+This 1scenario focuses on using publicly available services to build Java applications very quickly and efficiently using the cloud services GitHub and Travis CI. There is no need to set up any local infrastructure.
 
 This pipeline adheres to basic CI and CD practices and can be extended easily. It will make sure that each change to your project's repository is built centrally, thus applying the "Build Every Change" CI practice which is crucial for collaborative development.
 
