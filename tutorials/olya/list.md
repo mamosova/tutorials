@@ -19,10 +19,13 @@ tags: [ agreements:distribution_agreements/gtc ]
 
 
 1. Video Lesson 1
+
 ![Repositories1](Funny-Baby-11.jpg)
 2. Video Lesson 2 
+
 ![Repositories1](Funny-Baby-11.jpg)
 3. Video Lesson 3
+
 ![Repositories1](Funny-Baby-11.jpg)
 
 What we offer in this part is not more than a basic recipe to set up a minimum installation including only those components on Linux that we consider as absolutely necessary to run a CI/CD process for development with SAP. However, the setup best suited to your concrete requirements cannot be part of this document because it highly depends on your concrete local situation, the network setup, the overall landscape into which the CI/CD process will be embedded, and so on. Therefore, we will restrict ourselves here to showing only the principles and the core elements.
