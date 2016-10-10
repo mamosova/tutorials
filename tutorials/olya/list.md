@@ -21,9 +21,11 @@ tags: [ agreements:distribution_agreements/gtc ]
 1. Video Lesson 1
 
 ![Repositories1](Funny-Baby-11.jpg)
+
 2. Video Lesson 2 
 
 ![Repositories1](Funny-Baby-11.jpg)
+
 3. Video Lesson 3
 
 ![Repositories1](Funny-Baby-11.jpg)
