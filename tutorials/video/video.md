@@ -11,7 +11,7 @@ tags: [ products>sap-hana-cloud-platform, topic>cloud, topic>java]
  - [End-to-End Weather App Scenario Part 10](http://go.sap.com/developer/tutorials/hcp-java-weatherapp-part10.html)
 
 ## Details
-Every month, a member of SCN is rsi
+Every month, a mebber of SCN is rsi
 
 ### Time to Complete
 **15 min**
