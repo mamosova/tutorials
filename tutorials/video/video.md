@@ -54,11 +54,14 @@ and
 | col 3 is      | some wordy text | $1600 |
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 4](Accordion component which contains markup code in Body)]
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
+
 ```markup
     <?xml version="1.0" encoding="UTF-8"?>
     <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
@@ -177,12 +180,15 @@ and
         <role-name>Everyone</role-name>
     </auth-constraint>
 ```
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 5](Accordion component which contains Text in Body)]
 We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
+
 We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
 [ACCORDION-END]
 
@@ -190,10 +196,13 @@ We are currently in open beta for the new SAP community. Here's your opportunity
 ***Headers***
 
   **Example:** 
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 ## This is an h2 header
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 ### This is an h3 header
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 ###### This is an h6 header
 [ACCORDION-END]
@@ -204,12 +213,14 @@ We are currently in open beta for the new SAP community. Here's your opportunity
   **Example:** 
   
 Sometimes you want numbered lists:
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 1. One
 2. Two 
 3. Three
 
 Sometimes you want bullet points:
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 * Start a line with a star
 * Profit!
@@ -217,6 +228,7 @@ Sometimes you want bullet points:
 
 [ACCORDION-BEGIN [STEP 8](Accordion component which contains nested lists in Body)]
 You can create nested lists: 
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 * item1
     * one_one
@@ -228,12 +240,14 @@ You can create nested lists:
 
   **Example:** 
 In the words of Abraham Lincoln:
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 > Pardon my French
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 10](Accordion component which contains types of messages (Note, Caution and Warning) in Body)]
 ***There are three different types of messages: Note, Caution and Warning.***
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 >### Warning
 >jhkjhkjhkjhkj
@@ -260,6 +274,7 @@ In the words of Abraham Lincoln:
 **Task Lists*** (Please note, this requires empty line before task list):
 
   **Example:** 
+  
   [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]  
 - [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
 - [x] list syntax required (any unordered or ordered list supported)
@@ -269,7 +284,9 @@ In the words of Abraham Lincoln:
 
 [ACCORDION-BEGIN [STEP 12](Accordion component which contains code block and no code block in Body)]
 ***Code blocks:***
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
+
 ```markup
  quit;
  !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
@@ -287,5 +304,6 @@ In the words of Abraham Lincoln:
   puts markdown.to_html
   exit;
 ```
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 [ACCORDION-END]
