@@ -24,14 +24,14 @@ We are currently in open beta for the new SAP community. Here's your opportunity
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 2](#step2)]
-[EMBEDDED-VIDEO [](content/dam/site/sapcom/multimedia/2016/09/ba20053a-877c-0010-82c7-eda71af511fa.mp4)]
+[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/84c0683a-877c-0010-82c7-eda71af511fa.mp4)]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 2](#step2)]
+[ACCORDION-BEGIN [STEP 3](#step3)]
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/a83b4b3b-877c-0010-82c7-eda71af511fa.mp4)]
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 2](#step2)]
+[ACCORDION-BEGIN [STEP 4](#step4)]
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/c22fc03a-877c-0010-82c7-eda71af511fa.mp4)]
 [ACCORDION-END]
 
