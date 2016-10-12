@@ -20,17 +20,17 @@ Every month, a member of SCN is rsi
 
 [ACCORDION-BEGIN [STEP 1](Accordion component which contains Text in Body)]
 We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
-[VALIDATE_1]
+[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 2](#step2)]
-[VALIDATE_2]
+[EMBEDDED-VIDEO [](content/dam/site/sapcom/multimedia/2016/09/ba20053a-877c-0010-82c7-eda71af511fa.mp4)]
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 2](#step2)]
-[VALIDATE_3]
+[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/a83b4b3b-877c-0010-82c7-eda71af511fa.mp4)]
 [ACCORDION-END]
 [ACCORDION-BEGIN [STEP 2](#step2)]
-[VALIDATE_4]
+[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/c22fc03a-877c-0010-82c7-eda71af511fa.mp4)]
 [ACCORDION-END]
 
 
