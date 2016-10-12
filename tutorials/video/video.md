@@ -21,6 +21,7 @@ Every month, a mebber of SCN is rsi
 
 [ACCORDION-BEGIN [STEP 1](Accordion component which contains Images in Body)]
     ![Repositories](Funny-Baby-11.jpg)
+    
     [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
     
     ![Repositories](cat-308737_960_720.png)
@@ -29,6 +30,7 @@ Every month, a mebber of SCN is rsi
 
 [ACCORDION-BEGIN [STEP 2](Accordion component which contains link(s) in Body)]
 Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 [ACCORDION-END]
 
@@ -36,6 +38,7 @@ Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tuto
 ***Tables:***
 
   **Example:** 
+
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 
 First Header | Second Header
