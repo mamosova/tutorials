@@ -22,7 +22,9 @@ Every month, a mebber of SCN is rsi
 [ACCORDION-BEGIN [STEP 1](Accordion component which contains Images in Body)]
     ![Repositories](Funny-Baby-11.jpg)
     [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
-    ![Repositories](Funny-Baby-11.jpg)
+    
+    ![Repositories](cat-308737_960_720.png)
+    
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 2](Accordion component which contains link(s) in Body)]
