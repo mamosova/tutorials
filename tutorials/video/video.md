@@ -16,7 +16,7 @@ Every month, a member of SCN is rsi
 ### Time to Complete
 **15 min**
 
-[EMBEDDED-VIDEO [](/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
+[EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 
 
 ## Next Steps
