@@ -18,11 +18,20 @@ Every month, a member of SCN is rsi
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/09/dcb1153a-877c-0010-82c7-eda71af511fa.mp4)]
 
-Both solutions are also available as enterprise on-premise versions. Mixed scenarios using one part in the cloud and the other on-premise are also possible.
+[ACCORDION-BEGIN [STEP 1](Accordion component which contains Text in Body)]
+We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
+[VALIDATE_1]
+[ACCORDION-END]
 
-> GitHub: https://github.com  
-> GitHub Enterprise: https://enterprise.github.com/home  
-> Travis CI: https://travis-ci.org, https://en.wikipedia.org/wiki/Travis_CI
+[ACCORDION-BEGIN [STEP 2](#step2)]
+[VALIDATE_2]
+[ACCORDION-END]
+[ACCORDION-BEGIN [STEP 2](#step2)]
+[VALIDATE_3]
+[ACCORDION-END]
+[ACCORDION-BEGIN [STEP 2](#step2)]
+[VALIDATE_4]
+[ACCORDION-END]
 
 
 ## Next Steps
