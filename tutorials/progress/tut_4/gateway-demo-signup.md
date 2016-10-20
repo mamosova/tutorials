@@ -13,14 +13,23 @@ tags: [tutorial:product/mobile]
 3. Getting starhted with the HANA Web based development workbench
 
 [ACCORDION-BEGIN [STEP 1](Answer - 3)]
+
 [VALIDATE_1]
+
 [ACCORDION-END]      
+
 [ACCORDION-BEGIN [STEP 2](Answer - 4)]
+
 [VALIDATE_2]
+
 [ACCORDION-END]
+
 [ACCORDION-BEGIN [STEP 3](Answer - 8)]
+
 [VALIDATE_3]
+
 [ACCORDION-END]
+
 [ACCORDION-BEGIN [STEP 4](Done button)]
 
 [DONE]
