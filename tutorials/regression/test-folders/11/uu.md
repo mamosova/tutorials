@@ -2,7 +2,7 @@
 
 title: CI Best Practices Guide: Introduction and Navigator
 description: Part 1: Intrgoduction and Navigation through the Best Practices Guide
-tags: [  tutorial>intermediate, tutorial:type/project1212121 ]
+tags: [  tutorial>intermediate, tutorial:type/project ]
 
 ---
 
