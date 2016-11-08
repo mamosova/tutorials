@@ -1,5 +1,5 @@
 ---
-title: Debug and deploy the iOS app to an iPad
+title: 12Debug and deploy the iOS app to an iPad
 description: Debug your app by setting breakpoints and inspecting variables both in the simulator as well as on a physical device
 tags: [  tutorial>beginner, products>sap-s-4hana\,-on-premise-edition-1511 ]
 ---
