@@ -246,6 +246,8 @@ You can create nested lists:
   **Example:** 
 In the words of Abraham Lincoln:
 > Pardon my French
+
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 10](Accordion component which contains types of messages (Note, Caution and Warning) in Body)]
