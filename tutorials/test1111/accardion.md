@@ -240,7 +240,7 @@ You can create nested lists:
     * two
 [ACCORDION-END]
 
-[ACCORDION-BEGIN [STEP 9](Accordion component which contains Blockquotes in Body)]
+[ACCORDION-BEGIN [STEP 9](Accordion component which contains Block quotes in Body)]
 ***Blockquotes***
 
   **Example:** 
