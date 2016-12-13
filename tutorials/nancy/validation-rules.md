@@ -23,7 +23,7 @@ You will add a map display to one of the tabs in your app and geolocate an addre
 ---
 [ACCORDION-BEGIN [Step 1: ](Read about Google Static Maps API)]
 
-<!-- [VALIDATE_1]-->
+[VALIDATE_1]
 
 
 
