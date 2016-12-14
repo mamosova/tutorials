@@ -26,8 +26,18 @@ TEst2
 
 
 ###Match
-test1
-TEst2 
+prolog        ::= XMLDecl? Misc* (doctypedecl Misc*)?
+XMLDecl       ::= '<?xml' VersionInfo EncodingDecl? SDDecl? S? '?>'
+VersionInfo   ::= S 'version' Eq ("'" VersionNum "'" | '"' VersionNum '"')
+Eq            ::= S? '=' S?
+VersionNum    ::= '1.' [0-9]+
+Misc          ::= Comment | PI | S
+doctypedecl   ::= '<!DOCTYPE' S Name (S ExternalID)? S? ('[' intSubset ']' S?)? '>'
+DeclSep       ::= PEReference | S
+intSubset     ::= (markupdecl | DeclSep)*
+markupdecl    ::= elementdecl | AttlistDecl | EntityDecl | NotationDecl | PI | Comment
+extSubset     ::= TextDecl? extSubsetDecl
+extSubsetDecl ::= ( markupdecl | conditionalSect | DeclSep)* 
 
 [VALIDATE_2]
 
