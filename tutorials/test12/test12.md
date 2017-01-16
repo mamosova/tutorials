@@ -1,5 +1,5 @@
 ---
-title: Getting started with Spring Boot
+title: 12Getting started with Spring Boot
 description: Learn how-to develop a simple Spring Boot sample application that can be deployed to SAP HANA Cloud Platform
 tags: [  tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-platform, tutorial>how-to ]
 ---
