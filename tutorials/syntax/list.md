@@ -1,7 +1,7 @@
 ---
 title: code syntax code code code test cod1e
 description: code
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
+tags: [products>sap-hana-cloud-platform, topic>cloud, topic>java]
 ---
  
   **Example:without code** 
