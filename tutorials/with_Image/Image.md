@@ -23,4 +23,6 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
    ![Repositories](Capture.PNG)
     
    ![Repositories](LidodpXeT.png)
+   
+   ![Repositories](F100010654.JPG)
 
