@@ -34,3 +34,13 @@ tags: [tutorial:product/mobile]
 
 [DONE]
 [ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 5](Done button 2)]
+
+[DONE]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 6](Done button 3)]
+
+[DONE]
+[ACCORDION-END]
