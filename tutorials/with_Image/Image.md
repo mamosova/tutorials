@@ -17,11 +17,11 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
 
 ---
 
-**Image with *jpg**
+**Image with *jpg format**
 
    ![Repositories](Funny-Baby-11.jpg)
    
-   **Image with spaces between words**
+   **Image with spaces between words (jpg format)**
 
    ![Repositories](cat 1508613.jpg) 
       
