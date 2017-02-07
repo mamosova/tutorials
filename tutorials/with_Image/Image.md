@@ -74,9 +74,12 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
    
    **Image with  *JPG format (jpg format)**
    
-   ![Repositories](Capture.PNG)
+   ![Repositories](cat0.JPG)
    
    
+   **Image with  *PNG format (png format)**
+   
+   ![Repositories](watch.PNG)
    
       
     
