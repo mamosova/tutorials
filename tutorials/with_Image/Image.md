@@ -52,12 +52,12 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
    ![Relative with space](tutorials/with_Image/bird 720.png)
    
    
-   **Image from another folder (jpg format)**
+   **Image from another folder. Example: with_Image/image.jpg (jpg format)**
    
    ![folder](folder_with_images/the-horse.jpg)
    
    
-   **Image from another folder (png format)**
+   **Image from another folder. Example: with_Image/image.png (png format)**
    
    ![folder](folder_with_images/diamond.png)
    
