@@ -21,15 +21,19 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
 
    ![Repositories](Funny-Baby-11.jpg)
    
+   
    **Image with spaces between words (jpg format)**
 
    ![Repositories](cat 1508613.jpg) 
+   
    
    **Image with spaces between words (png format)**
 
    ![Repositories](hatchimals image.png)
    
+   
    **Image with indicating the way. Example: tutorials/images/image.jpg (jpg format)**
+   
    ![Relative](tutorials/with_Image/elephant.jpg)
    
       
