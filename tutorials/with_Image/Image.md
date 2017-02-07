@@ -36,6 +36,11 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
    
    ![Relative](tutorials/with_Image/elephant.jpg)
    
+   
+   **Image with indicating the way. Example: tutorials/images/image.png (png format)**
+   
+   ![Relative](tutorials/with_Image/cat.png)
+   
       
     
    ![Repositories](Capture.PNG)
