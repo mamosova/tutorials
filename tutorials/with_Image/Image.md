@@ -28,6 +28,10 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
    **Image with spaces between words (png format)**
 
    ![Repositories](hatchimals image.png)
+   
+   **Image with indicating the way. Example: tutorials/images/image.jpg (jpg format)**
+   ![Relative](tutorials/with_Image/elephant.jpg)
+   
       
     
    ![Repositories](Capture.PNG)
