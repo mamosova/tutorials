@@ -43,7 +43,11 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
    
    
    **Image with indicating the way and spaces between words. Example: tutorials/images/image test.jpg (jpg format)**
-   ![Relative with space](tutorials/images/gran canaria.jpg)
+   ![Relative with space](tutorials/with_Image/gran canaria.jpg)
+   
+   
+    **Image with indicating the way and spaces between words. Example: tutorials/images/image test.png (png format)**
+   ![Relative with space](tutorials/with_Image/bird 720.png)
    
       
     
