@@ -22,6 +22,11 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
    ![Repositories](Funny-Baby-11.jpg)
    
    
+   **Image with *png format**
+
+   ![Repositories](monster.png)
+   
+   
    **Image with spaces between words (jpg format)**
 
    ![Repositories](cat 1508613.jpg) 
@@ -81,11 +86,5 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
    
    ![Repositories](watch.PNG)
    
-      
-    
    
-    
-   ![Repositories](LidodpXeT.png)
-   
-   ![Repositories](F100010654.JPG)
 
