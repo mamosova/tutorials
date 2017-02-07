@@ -24,6 +24,10 @@ In this tutorial you will create a Dynamic Web project, a servlet to respond to 
    **Image with spaces between words (jpg format)**
 
    ![Repositories](cat 1508613.jpg) 
+   
+   **Image with spaces between words (png format)**
+
+   ![Repositories](hatchimals image.png)
       
     
    ![Repositories](Capture.PNG)
