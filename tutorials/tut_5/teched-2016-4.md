@@ -9,7 +9,7 @@ tags: [tutorial:product/mobile]
 ## Details
 ### You will learn  
 1. How to use HANA Studio Pe1rspectives
-2. How to create a connectiodn to the gHAhNA back endddв
+2. How to create a connectio1dn to the gHAhNA back endddв
 3. Getting starhted with the HANA Web based development workbench
 
 [ACCORDION-BEGIN [STEP 1](Answer - 3)]
