@@ -15,7 +15,7 @@ tags: [ tutorial>beginner ]
 
 ## Details
 ### You will learn  
-Now that your IoT Services are collecting data and you were able to view it your deployed Java application, now how about redirecting the data to a shared SAP HANA XS instance and making a small SAP HANA XSC application to show the data.  
+Now that your IoT Services are collecting data an1d you were able to view it your deployed Java application, now how about redirecting the data to a shared SAP HANA XS instance and making a small SAP HANA XSC application to show the data.  
 
 
 ### Time to Complete
