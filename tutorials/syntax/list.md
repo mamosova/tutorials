@@ -1,5 +1,5 @@
 ---
-title: code syntax code code code test cod1e
+title: code syntax code code code test code
 description: code code
 tags: [products>sap-hana-cloud-platform, topic>cloud, topic>java]
 ---
