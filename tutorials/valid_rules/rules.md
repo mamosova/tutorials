@@ -52,7 +52,9 @@ Now that you have set up a Destination in the HANA Cloud Platform (HCP) cockpit,
 
 
 [ACCORDION-BEGIN [STEP 6](http-status-check 301, 401)] 
+There are advances being made in science and technology everyday, and a good example of this is the LCD monitor. LCD monitors have several benefits over the old chunky computer monitors that most users are familiar with?
 [VALIDATE_6] 
+There are advances being made in science and technology everyday, and a good example of this is the LCD monitor. LCD monitors have several benefits over the old chunky computer monitors that most users are familiar with?
 [ACCORDION-END]
 
 
