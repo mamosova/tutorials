@@ -2,7 +2,6 @@
 title: cheking all validation rules
 description: 9 types of rules 
 tags: [tutorial:product/sapHana]
-qrcode: true
 ---
 
 
