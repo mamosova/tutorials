@@ -79,6 +79,5 @@ There are advances being made in science and technology everyday, and a good exa
 
 [ACCORDION-BEGIN [STEP 10](multiple-choice rule + single-choice rule)] 
 [VALIDATE_9] 
-
 [VALIDATE_8]
 [ACCORDION-END]
