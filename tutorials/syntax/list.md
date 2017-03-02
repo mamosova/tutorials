@@ -8,7 +8,7 @@ tags: [products>sap-hana-cloud-platform, topic>cloud, topic>java]
 ```
 let apples = 3
 let oranges = 5
-let appleSummary = "I have \(apples) apples."
+let appleSummary = "I h1ave \(apples) apples."
 let fruitSummary = "I have \(apples + oranges) pieces of fruit."
 class TriangleAndSquare {
     var triangle: EquilateralTriangle {
