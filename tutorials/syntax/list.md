@@ -2,6 +2,7 @@
 title: code syntax code code code test code
 description: code code
 tags: [products>sap-hana-cloud-platform, topic>cloud, topic>java]
+primary_tag: tutorial:product/sap-hana-cloud-platform
 ---
  
   **Example:without code** 
