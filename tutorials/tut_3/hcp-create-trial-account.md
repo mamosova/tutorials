@@ -2,6 +2,7 @@
 title: hcp create trial accoun
 description: Create a Destination to allow HANA Cloud Platform to nbvread/write data
 tags: [tutorial:product/hcp, tutorial:product/mobile, tutorial:interest/gettingstarted]
+primary_tag: tutorial:product/hcp
 ---
 
 >### New tutor
