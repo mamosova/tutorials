@@ -2,7 +2,7 @@
 title: Tutorial with Images
 description: Develop and 11deploy your first Java application using the SAP HANA Cloud Platform Tools for Java
 tags: [  tutorial>beginner, topic>cloud, topic>java, products>sap-hana-cloud-platform ]
-primary_tag: tutorial:topic/cloud
+primary_tag: tutorial:product/sapHana
 ---
 ## Prerequisites  
  - **Proficiency:** Beginner
