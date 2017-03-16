@@ -299,3 +299,61 @@ In the words of Abraham Lincoln:
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]
 [ACCORDION-END]
+
+***Validation rules***
+
+[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[VALIDATE_1]
+[ACCORDION-END]
+
+ 
+[ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+[VALIDATE_2]
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+[VALIDATE_3]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+[VALIDATE_4]
+[ACCORDION-END]
+ 
+ 
+[ACCORDION-BEGIN [STEP 5](http-status-check 404)] 
+[VALIDATE_5] 
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 6](http-status-check 301, 401)] 
+There are advances being made in science and technology everyday, and a good example of this is the LCD monitor. LCD monitors have several benefits over the old chunky computer monitors that most users are familiar with?
+
+[VALIDATE_6] 
+
+There are advances being made in science and technology everyday, and a good example of this is the LCD monitor. LCD monitors have several benefits over the old chunky computer monitors that most users are familiar with?
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 7](http-status-check 200)] 
+[VALIDATE_7] 
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 8](single-choice rule)] 
+[VALIDATE_6] 
+[VALIDATE_8] 
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 9](multiple-choice rule)] 
+[VALIDATE_6] 
+[VALIDATE_9] 
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 10](multiple-choice rule + single-choice rule)] 
+[VALIDATE_9] 
+[VALIDATE_8]
+[ACCORDION-END]
