@@ -82,18 +82,6 @@ In the words of Abraham Lincoln:
 
 &nbsp;
 
-***Images*** (all images are stored on GitHub, URLs are rewritten to absolute)
-
-Format: `![Alt Text](url)`
-
-  **Example:** 
-![Image](https://octodex.github.com/images/yaktocat.png)
-![Example](http://www.kinomania.ru/images/posters/154766.jpg)
-
-
-![Example](http://bestfotoposter.ru/downloads/priroda/more/6000%D1%854285-96dpi-foto-oblaka-nad-morem.jpg)
-
-
 
 ***Task Lists*** (Please note, this requires empty line before task list):
 
@@ -129,12 +117,9 @@ You can use the VIDEO:
 
 
 [ACCORDION-BEGIN [STEP 1](Accordion component which contains Images in Body)]
-    ![Repositories](Funny-Baby-11.jpg)
     
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]
 
-![Repositories](Funny-Baby-11.jpg)
-    
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 2](Accordion component which contains link(s) in Body)]
