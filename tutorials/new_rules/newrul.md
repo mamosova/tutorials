@@ -1,6 +1,6 @@
 ---
-title: cheking all validation rules
-description: 9 types of rules 
+title: cheking new validation rules
+description: 2 new types of rules 
 tags: [tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
 ---
