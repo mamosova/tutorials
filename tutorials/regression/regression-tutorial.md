@@ -111,7 +111,7 @@ and
 | zebra stripes | are neat        |    $1 |
 
 
-You can use the VIDEO:
+***You can use the VIDEO:***
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]
 
