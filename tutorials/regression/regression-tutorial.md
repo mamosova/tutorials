@@ -120,12 +120,15 @@ and
     
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]
 
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 2](Accordion component which contains link(s) in Body)]
 Select a tutorial from the [Tutorial Navigator](http://go.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://go.sap.com/developer/tutorials.html)
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]
+
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 3](Accordion component which contains tables in Body)]
@@ -150,15 +153,17 @@ and
 | zebra stripes | are neat        |    $1 |
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]
+
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 4](Accordion component which contains markup code in Body)]
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]
 
-
-
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]
+
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 5](Accordion component which contains Text in Body)]
@@ -167,6 +172,8 @@ We are currently in open beta for the new SAP community. Here's your opportunity
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]
 
 We are currently in open beta for the new SAP community. Here's your opportunity to test out the new features and give us your feedback. Not in the mood to try out the new community just yet? Then continue on to the SAP Community Network (SCN) where you currently collaborate with other members.
+
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 6](Accordion component which contains Headers in Body)]
@@ -201,6 +208,8 @@ Sometimes you want bullet points:
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]
 * Start a line with a star
 * Profit!
+
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 8](Accordion component which contains nested lists in Body)]
@@ -210,6 +219,8 @@ You can create nested lists:
 * item1
     * one_one
     * two
+
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 9](Accordion component which contains Blockquotes in Body)]
@@ -220,6 +231,8 @@ In the words of Abraham Lincoln:
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]
 > Pardon my French
+
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 10](Accordion component which contains types of messages (Note, Caution and Warning) in Body)]
@@ -245,6 +258,8 @@ In the words of Abraham Lincoln:
 >### Note
 
 >This is a note. 
+
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 11](Accordion component which contains Task Lists in Body)]
@@ -257,6 +272,8 @@ In the words of Abraham Lincoln:
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 12](Accordion component which contains code block and no code block in Body)]
@@ -283,6 +300,8 @@ In the words of Abraham Lincoln:
 ```
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]
+
+[DONE]
 [ACCORDION-END]
 
 ***Validation rules***
