@@ -1,5 +1,5 @@
 ---
-title: Monitoring SAP HANA Using SAP HANA Cockpit and SAP HANA Studio for SAP HANA Dynamic Tiering
+title: Tut with fully sidebar
 description: Checking the esserver process and coordinator types to determine if Dynamic Tiering is running and if extended storage is created and running.
 
 primary_tag: products>sap-hana-dynamic-tiering
