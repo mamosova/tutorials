@@ -1,5 +1,5 @@
 ---
-title: code syntax code code code test code
+title: Jim's code syntax
 description: 1code code
 tags: [products>sap-hana-cloud-platform, topic>cloud, topic>java]
 primary_tag: tutorial:product/sapHana
