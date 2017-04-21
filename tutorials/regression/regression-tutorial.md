@@ -361,3 +361,5 @@ There are advances being made in science and technology everyday, and a good exa
 [VALIDATE_9] 
 [VALIDATE_8]
 [ACCORDION-END]
+
+![Image](https://octodex.github.com/images/yaktocat.png)
