@@ -8,6 +8,10 @@ primary_tag: tutorial:product/sapHana
 
 You can use:
 
+***Image by link***
+![Image](https://octodex.github.com/images/yaktocat.png)
+
+
 ***Text*** (including bold, italic, etc)
 
   **Example:** 
