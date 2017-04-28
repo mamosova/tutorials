@@ -2,7 +2,7 @@
 title: Jim's code syntax
 description: 1code code
 tags: [products>sap-hana-cloud-platform, topic>cloud, topic>java]
-primary_tag: tutorial:product/sapHana23
+primary_tag: tutorial:product/sapHana
 ---
  
   **Example:without code**
