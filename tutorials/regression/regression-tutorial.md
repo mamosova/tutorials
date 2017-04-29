@@ -193,6 +193,8 @@ We are currently in open beta for the new SAP community. Here's your opportunity
 
 [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]
 ###### This is an h6 header
+
+[DONE]
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 7](Accordion component which contains Lists in Body)]
