@@ -304,4 +304,4 @@ Save the extension in your computer. You can then use the extension in Lumira as
 
 ## Next Steps
 - Adapt a D3 Chart for Lumira with SAP Web IDE (coming soon)
-- Or, select a tutorial from the [Tutorial Navigator](http://www.sap.com/developer/tutorial-navigator.html) or the [Tutorial Catalog](http://www.sap.com/developer/tutorials.html)
+- Or, select a tutorial from the [Tutorial Navigator](https://dx-test.mo.sap.corp/developer/collections/12345.html) or the [Tutorial Catalog](http://www.sap.com/developer/tutorials.html)
