@@ -1,8 +1,8 @@
 ---
-title: testing apps where primary tag is products>sap-hana-cockpit
+title: testing apps where primary tag is products>sap-hana
 description: new Create a Destination to allow HANA Cloud Platform to nbvread/write data
 tags: [tutorial:product/mobile]
-primary_tag: products>sap-hana-cockpit
+primary_tag: products>sap-hana
 ---
 
 >### New tutor
