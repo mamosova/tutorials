@@ -13,16 +13,42 @@ primary_tag: tutorial:product/sapHana
 2. How to create a connectiodn to the gHAhNA back endddв
 3. Getting starhted with the HANA Web based development workbench
 
-[ACCORDION-BEGIN [STEP 1](Answer - 3)]
-[VALIDATE_1]
-[ACCORDION-END]      
-[ACCORDION-BEGIN [STEP 2](Answer - 4)]
-[VALIDATE_2]
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 3](Answer - 8)]
-[VALIDATE_3]
-[ACCORDION-END]
-[ACCORDION-BEGIN [STEP 4](Done button)]
+[ACCORDION-BEGIN [STEP 1](Accordion component which contains Task Lists in Body)]
+**Task Lists*** (Please note, this requires empty line before task list):
+
+  **Example:** 
+  
+  [EMBEDDED-VIDEO [](/content/dam/site/sapcom/multimedia/2016/08/8adbcaf9-807c-0010-82c7-eda71af511fa.mp4)]  
+- [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 [DONE]
-[ACCORDION-END]  
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 12](Accordion component which contains Task Lists in Body)]
+**Task Lists*** (Please note, this requires empty line before task list):
+
+  **Example:** 
+  
+- [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+[DONE]
+[ACCORDION-END]
+
+[ACCORDION-BEGIN [STEP 3](Accordion component which contains Task Lists in Body)]
+**Task Lists*** (Please note, this requires empty line before task list):
+
+  **Example:** 
+     
+- [x] @mentions, #refs, [links](), **formatting**, and ~~tags~~ supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+[DONE]
+[ACCORDION-END]
